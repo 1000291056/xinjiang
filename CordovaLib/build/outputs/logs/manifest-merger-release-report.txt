@@ -1,0 +1,23 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:1-24:12
+INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:1-24:12
+INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:1-24:12
+INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:1-24:12
+INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:1-24:12
+INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:1-24:12
+INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:1-24:12
+	package
+		ADDED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:20:5-33
+		INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml
+		INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml
+	android:versionName
+		ADDED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:22:5-30
+		INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml
+		INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:19:11-69
+	android:versionCode
+		ADDED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml:21:5-28
+		INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml
+		INJECTED from D:\project\ffw\xinjiang\CordovaLib\AndroidManifest.xml
