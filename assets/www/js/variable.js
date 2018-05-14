@@ -127,31 +127,31 @@ function setDomain(domain){
 	serverhtml =  domain+"/jquerymobile" //服务器上页面目录
 	versionurl = domain+"/servlet/versionForPhonegap";//获取服务器版本 
 	newappurl = domain+"/"+appname;//更新客户端的地址
-	dengluurl = domain+"/phonegap/dologin.do";//登录地址
-	menuurl = domain+"/phonegap/getMenu.do";//菜单地址
+	dengluurl = domain+"/phonegap/dologin.so";//登录地址
+	menuurl = domain+"/phonegap/getMenu.so";//菜单地址
 
-	mainurl = domain+"/mobile/portal.do";
-	openurl = domain+"/phonegap/openur.do";
-	viewurl = domain+"/phonegap/getView.do";//视图
+	mainurl = domain+"/mobile/portal.so";
+	openurl = domain+"/phonegap/openur.so";
+	viewurl = domain+"/phonegap/getView.so";//视图
 	uploadfileurl = domain+"/servlet/uploadFileForPhonegap";//文件上传
-	smallpicurl = domain+"/docattach.do?action=loadSmallImgAttach";//小图片下载地址自己后面加参数filetype=small720&fileid
+	smallpicurl = domain+"/docattach.so?action=loadSmallImgAttach";//小图片下载地址自己后面加参数filetype=small720&fileid
 	downloadfileurl = domain+"/getfile?fileid=";//附件下载地址
-	saveDocurl = domain+"/phonegap/saveAppDoc.do";//非流程表保存地址
-	openAppDocurl = domain+"/phonegap/openAppDoc.do";//打开或新建框架表单（包含流程）
-	openFlowDocurl = domain+"/phonegap/openFlowNote.do";//待办任务打开
-	processFlowurl = domain+"/phonegap/processFlowDoc.do";//流转
-	selectNextFlowurl = domain+"/phonegap/selectNextFlow.do";//选择流向
-	selectFlowPersonsurl = domain+"/phonegap/selectFlowPersons.do";//选择流转人员
+	saveDocurl = domain+"/phonegap/saveAppDoc.so";//非流程表保存地址
+	openAppDocurl = domain+"/phonegap/openAppDoc.so";//打开或新建框架表单（包含流程）
+	openFlowDocurl = domain+"/phonegap/openFlowNote.so";//待办任务打开
+	processFlowurl = domain+"/phonegap/processFlowDoc.so";//流转
+	selectNextFlowurl = domain+"/phonegap/selectNextFlow.so";//选择流向
+	selectFlowPersonsurl = domain+"/phonegap/selectFlowPersons.so";//选择流转人员
 	selectPersonsurl = domain+"/pages/selectpersions.jsp";
-	selectOrgFlowPersonsurl = domain+"/phonegap/selectOrgFlowPersons.do";//选择流转部门
+	selectOrgFlowPersonsurl = domain+"/phonegap/selectOrgFlowPersons.so";//选择流转部门
 
-	signatureurl = domain+"/phonegap/saveSignature.do";//流转意见保存
+	signatureurl = domain+"/phonegap/saveSignature.so";//流转意见保存
 
-	dwjcurl = domain+"/phonegap/dwjc.do";//点位检查
-	dwjcurl1 = domain+"/android/dwjcForAndroid.do";//点位检查
-	yhzgurl = domain+"/phonegap/yhzg.do";//隐患整改
-	dataurl = domain+"/phonegap/data.do";//首页信息
-	lxdwjcurl = domain+"/phonegap/lxdwjc.do";//离线点位检查
+	dwjcurl = domain+"/phonegap/dwjc.so";//点位检查
+	dwjcurl1 = domain+"/android/dwjcForAndroid.so";//点位检查
+	yhzgurl = domain+"/phonegap/yhzg.so";//隐患整改
+	dataurl = domain+"/phonegap/data.so";//首页信息
+	lxdwjcurl = domain+"/phonegap/lxdwjc.so";//离线点位检查
 
 	certcodeurl = domain+"/CheckImage";		//验证码
 }
